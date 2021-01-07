@@ -1,0 +1,10 @@
+﻿  r_config.cpp
+  r_main.cpp
+  r_radio.cpp
+  r_samp.cpp
+  Generando código
+  76 of 78 functions (97.4%) were compiled, the rest were copied from previous compilation.
+    2 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Generación de código finalizada
+  RadioInteligente.vcxproj -> C:\Users\Fireplaceeee\Desktop\Radio-Inteligente-2021-Edition-main\Radio Inteligente 2021 Edition\Release\rintel.exe
